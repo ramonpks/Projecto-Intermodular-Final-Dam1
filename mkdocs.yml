@@ -1,0 +1,79 @@
+site_name: Proyecto Intermodular - DAM
+site_description: Proyecto Final de la asignatura Intermodular - Ciclo DAM IES L'Estació
+site_author: Ramón Vicente Picazo Cayuela y Anna Perez Company
+site_url: https://github.com/ramonpks/Proyecto-Intermodular-Final-Dam1/
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Inicio: index.md
+  - Fase 1:
+    - Equipo y Entorno: fase1.md
+  - Fase 2:
+    - Definición del Proyecto: fase2.md
+  - Fase 3:
+    - Planificación: fase3.md
+  - Fase 4:
+    - Metodología: fase4.md
+  - Fase 5:
+    - Diseño Web: fase5.md
+  - Fase 6:
+    - Prototipo Visual: fase6.md
+  - Fase 7:
+    - Documentación Final: fase7.md
+  - Fase 8:
+    - Presentación: fase8.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ramonpks/Proyecto-Intermodular-Final-Dam1
+  
+  proyecto:
+    nombre: "[Por definir]"
+    tipo: "Web App"
+    tecnologia: "PHP"
+    ciclo: "DAM"
+    centro: "IES L'Estació - Ontinyent (València)"
+    curso: "2025/2026"
+    asignatura: "Proyecto Intermodular"
+
+copyright: Copyright 2026 - IES L'Estació Ontinyent - Ramón Vicente Picazo Cayuela y Anna Perez Company

@@ -1,0 +1,53 @@
+# MkDocs build output
+site/
+
+# Dependencies
+vendor/
+node_modules/
+
+# PHP
+*.log
+.env
+.env.local
+.env.*.local
+config/database.php
+config/config.php
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like Istanbul
+coverage/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel/Project temp files
+~$*
