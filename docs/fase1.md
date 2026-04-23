@@ -97,3 +97,7 @@ Projecto-Intermodular-Final-Dam1/  ← Repositorio PRIVADO GitHub
 !!! warning "Repositorio Privado"
 Este es un repositorio **PRIVADO**. Solo Ramón Vicente Picazo Cayuela y Anna Pérez Company tienen acceso. No compartir enlaces ni código fuente fuera del equipo.
 
+---
+
+!!! tip "Navegación"
+    [Fase 2: Definición del proyecto](fase2.md) →
