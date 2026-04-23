@@ -25,7 +25,7 @@ En esta fase se organiza el trabajo temporal del proyecto mediante un **diagrama
 
 El diagrama de Gantt representa la planificación temporal completa del proyecto, ajustada a las fechas reales de entrega del aula.
 
-![Diagrama de Gantt](../docs/assets/images/diagramaGrantFinal.png)
+![Diagrama de Gantt](../docs/assets/images/diagramaGrant.png)
 
 ### Tabla de Planificación
 
