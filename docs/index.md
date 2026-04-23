@@ -165,5 +165,3 @@ Teléfono: 962 919 375
 Email: [46006100@edu.gva.es](mailto:46006100@edu.gva.es)  
 Web: [portal.edu.gva.es/iestacio](https://portal.edu.gva.es/iestacio/)
 
-!!! tip "Navegación"
-Usa el menú superior o la barra lateral para navegar entre las diferentes fases del proyecto.

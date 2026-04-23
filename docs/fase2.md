@@ -94,4 +94,4 @@ Aunque se detallarán más adelante, la aplicación incluirá:
 ---
 
 !!! tip "Navegación"
-    ← [Fase 1: Creación del equipo y entorno de trabajo](fase1.md) | [Fase 3: Planificación](fase3.md) →
+    ← [Fase 1: Creación del equipo y entorno de trabajo ](fase1.md) | [Fase 3: Planificación ](fase3.md) →

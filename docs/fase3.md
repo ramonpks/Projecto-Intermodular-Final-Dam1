@@ -184,4 +184,4 @@ Se utiliza Trello como herramienta de gestión visual del trabajo. El tablero si
 ---
 
 !!! tip "Navegación"
-    ← [Fase 2: Definición](fase2.md) | [Fase 4: Metodología](fase4.md) →
+    ← [Fase 2: Definición ](fase2.md) | [Fase 4: Metodología ](fase4.md) →

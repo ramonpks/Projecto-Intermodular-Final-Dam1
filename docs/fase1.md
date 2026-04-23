@@ -100,4 +100,4 @@ Este es un repositorio **PRIVADO**. Solo Ramón Vicente Picazo Cayuela y Anna P�
 ---
 
 !!! tip "Navegación"
-    [Fase 2: Definición del proyecto](fase2.md) →
+    [Fase 2: Definición del proyecto ](fase2.md) →

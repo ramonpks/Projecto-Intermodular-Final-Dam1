@@ -126,4 +126,4 @@ El siguiente diagrama describe el ciclo de vida de una tarea desde que se identi
 ---
 
 !!! tip "Navegación"
-    ← [Fase 3: Planificación](fase3.md) | [Fase 5: Diseño Web](fase5.md) →
+    ← [Fase 3: Planificación ](fase3.md) | [Fase 5: Diseño Web ](fase5.md) →
