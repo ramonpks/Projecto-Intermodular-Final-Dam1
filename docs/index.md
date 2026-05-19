@@ -118,12 +118,15 @@ Este proyecto se desarrolla en equipo de dos alumnos del curso de DAM.
 │   ├── index.md
 │   ├── fase1.md
 │   ├── fase2.md
-│   └── ...
-├── 📁 planificacion/      # Gantt, Trello screenshots
-├── 📁 diseno/             # Wireframes, prototipo
-├── 📁 src/                # Código fuente PHP
-├── mkdocs.yml             # Configuración MkDocs
-├── README.md              # Información del repositorio
+│   ├── ...
+│   └── 📁 assets/           # Imagenes, Documentos, Otros
+│        ├── 📁 documentos/  # Documentos del proyecto
+│        └── 📁 images/      # Imagenes del proyecto
+├── 📁 planificacion/        # Gantt, Trello screenshots
+├── 📁 diseno/               # Wireframes, prototipo
+├── 📁 src/                  # Código fuente PHP
+├── mkdocs.yml               # Configuración MkDocs
+├── README.md                # Información del repositorio
 └── .gitignore
 ```
 
