@@ -79,7 +79,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.1 Menú Principal
 
-<img src="../docs/assets/images/Menu Principal Canva.png" width="300" alt="Menu Principal">
+<img src="../assets/images/Menu Principal Canva.png" width="300" alt="Menu Principal">
 
 
 **Estructura:**
@@ -98,7 +98,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.2 Listado de Contactos
 
-<img src="../docs/assets/images/Listado Canva.png" width="300" alt="Listado">
+<img src="../assets/images/Listado Canva.png" width="300" alt="Listado">
 
 
 **Estructura:**
@@ -119,7 +119,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.3 Búsqueda
 
-<img src="../docs/assets/images/Busqueda Canva.png" width="300" alt="Busqueda">
+<img src="../assets/images/Busqueda Canva.png" width="300" alt="Busqueda">
 
 
 **Estructura:**
@@ -141,7 +141,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.4 Opciones (Submenú)
 
-<img src="../docs/assets/images/Opciones Canva.png" width="300" alt="Opciones">
+<img src="../assets/images/Opciones Canva.png" width="300" alt="Opciones">
 
 **Estructura:**
 - Logo superior + título OPCIONES + 3 botones grandes verticales + botón Atrás alineado a la derecha inferior.
@@ -159,7 +159,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.5 Añadir Contacto
 
-<img src="../docs/assets/images/Añadir Canva.png" width="300" alt="Añadir">
+<img src="../assets/images/Añadir Canva.png" width="300" alt="Añadir">
 
 **Estructura:**
 - Logo superior + título AÑADIR + 5 filas de formulario (label + input) + botones Añadir y Atrás en la parte inferior, uno a cada lado.
@@ -179,7 +179,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.6 Editar (Búsqueda)
 
-<img src="../docs/assets/images/Editar Canva.png" width="300" alt="Editar">
+<img src="../assets/images/Editar Canva.png" width="300" alt="Editar">
 
 **Estructura:**
 - Logo superior + título EDITAR + selector DESPLEGAR TIPOS + caja de búsqueda con lupa + botón Buscar a la derecha + botón Atrás a la derecha inferior.
@@ -199,7 +199,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.7 Editar Campos
 
-<img src="../docs/assets/images/EditarCampos Canva.png" width="300" alt="Editar_Campos">
+<img src="../assets/images/EditarCampos Canva.png" width="300" alt="Editar_Campos">
 
 **Estructura:**
 - Logo superior + título EDITAR CAMPOS + 5 filas de formulario pre-rellenadas + botones Editar y Atrás en la parte inferior, uno a cada lado.
@@ -219,7 +219,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.8 Eliminar Contacto
 
-<img src="../docs/assets/images/Eliminar Canva.png" width="300" alt="Eliminar">
+<img src="../assets/images/Eliminar Canva.png" width="300" alt="Eliminar">
 
 
 **Estructura:**
@@ -244,7 +244,7 @@ A continuación se muestra el aspecto visual final de cada pantalla, aplicando e
 
 ### 3.9 Acerca De
 
-<img src="../docs/assets/images/AcercaDe Canva.png" width="300" alt="Acerca_De">
+<img src="../assets/images/AcercaDe Canva.png" width="300" alt="Acerca_De">
 
 **Estructura:**
 - Logo superior + título ACERCA DE + caja informativa grande centrada + botón Atrás a la derecha inferior.
@@ -288,7 +288,7 @@ El prototipo en Canva se ha estructurado como un **conjunto de páginas enlazada
 
 | Recurso | Ubicación / Enlace | Formato |
 |---------|-------------------|---------|
-| **Prototipo Canva** | [Enlace al proyecto Canva](../docs/assets/documentos/canva.pdf) | PDF |
+| **Prototipo Canva** | [Enlace al proyecto Canva](../assets/documentos/canva.pdf) | PDF |
 | **Capturas de pantalla** | `../docs/assets/images/` | PNG |
 
 

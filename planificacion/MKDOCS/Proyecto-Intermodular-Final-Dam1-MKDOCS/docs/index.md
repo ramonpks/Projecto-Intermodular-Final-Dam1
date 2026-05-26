@@ -37,65 +37,40 @@ Este proyecto se desarrolla en equipo de dos alumnos del curso de DAM.
 
 ## 📋 Fases del Proyecto
 
-<div class="grid cards" markdown>
 
-- **Fase 1: Equipo y Entorno**  
-  [Ver Fase 1](fase1.md)
 
-  ---
-
+- **Fase 1: Equipo y Entorno** [Ver Fase 1](fase1.md)
+  
   Configuración del canal de Teams, estructura de carpetas y preparación del entorno de documentación con MkDocs.
 
-- **Fase 2: Definición**  
-  [Ver Fase 2](fase2.md)
-
-  ---
-
+- **Fase 2: Definición** [Ver Fase 2](fase2.md)
+  
   Decisión del proyecto, objetivos, público objetivo y problema que resuelve.
 
-- **Fase 3: Planificación**  
-  [Ver Fase 3](fase3.md)
-
-  ---
-
+- **Fase 3: Planificación** [Ver Fase 3](fase3.md)
+  
   Diagrama de Gantt, tablero Trello y organización temporal del proyecto.
 
-- **Fase 4: Metodología**  
-  [Ver Fase 4](fase4.md)
-
-  ---
-
+- **Fase 4: Metodología** [Ver Fase 4](fase4.md)
+  
   Elección entre Scrum, Kanban o modelo mixto. Organización de reuniones.
 
-- **Fase 5: Diseño Web**  
-  [Ver Fase 5](fase5.md)
-
-  ---
-
+- **Fase 5: Diseño Web** [Ver Fase 5](fase5.md)
+  
   Mapa de páginas, estructura de navegación, wireframes y flujo de usuario.
 
-- **Fase 6: Prototipo Visual**  
-  [Ver Fase 6](fase6.md)
-
-  ---
-
+- **Fase 6: Prototipo Visual** [Ver Fase 6](fase6.md)
+  
   Prototipo visual de la aplicación usando Figma, Canva u otras herramientas.
 
-- **Fase 7: Documentación**  
-  [Ver Fase 7](fase7.md)
-
-  ---
-
+- **Fase 7: Documentación** [Ver Fase 7](fase7.md)
+  
   Documentación completa del proceso de desarrollo.
 
-- **Fase 8: Presentación**  
-  [Ver Fase 8](fase8.md)
-
-  ---
-
+- **Fase 8: Presentación** [Ver Fase 8](fase8.md)
+  
   Presentación final del proyecto, aprendizajes y conclusiones.
 
-</div>
 
 ---
 

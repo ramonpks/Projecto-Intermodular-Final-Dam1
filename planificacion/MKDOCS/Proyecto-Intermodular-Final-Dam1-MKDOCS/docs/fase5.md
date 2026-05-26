@@ -15,7 +15,7 @@ La aplicación está compuesta por **7 pantallas principales** organizadas en un
 
 ### Estructura del Mapa
 
-![Mapa Estructural](../docs/assets/images/Mapa%20Estructural.png)
+![Mapa Estructural](../assets/images/Mapa%20Estructural.png)
 
 
 ### Pantallas de la Aplicación
@@ -40,7 +40,7 @@ La navegación sigue un modelo **jerárquico en árbol** con retorno al menú pr
 
 ### Diagrama de Navegación
 
-![WireFrames](../docs/assets/images/WireFrames.png)
+![WireFrames](../assets/images/WireFrames.png)
 
 
 ### Reglas de Navegación
@@ -61,7 +61,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.1 Menú Principal
 
-![Menu Principal](../docs/assets/images/Menu%20Principal.png)+
+![Menu Principal](../assets/images/Menu%20Principal.png)+
 
 
 **Elementos:**
@@ -72,7 +72,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.2 Listado de Contactos
 
-![Listado](../docs/assets/images/Listado.png)
+![Listado](../assets/images/Listado.png)
 
 
 **Elementos:**
@@ -82,7 +82,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.3 Búsqueda
 
-![Busqueda](../docs/assets/images/Busqueda.png)
+![Busqueda](../assets/images/Busqueda.png)
 
 
 **Elementos:**
@@ -94,7 +94,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.4 Opciones
 
-![Opciones](../docs/assets/images/Opciones.png)
+![Opciones](../assets/images/Opciones.png)
 
 
 **Elementos:**
@@ -104,7 +104,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.5 Añadir Contacto
 
-![Añadir](../docs/assets/images/Añadir.png)
+![Añadir](../assets/images/Añadir.png)
 
 
 **Elementos:**
@@ -114,7 +114,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.6 Editar
 
-![Editar](../docs/assets/images/Editar.png)
+![Editar](../assets/images/Editar.png)
 
 **Elementos:**
 - Selector desplegable.
@@ -124,7 +124,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.7 Editar Campos
 
-![EditarCampos](../docs/assets/images/EditarCampos.png)
+![EditarCampos](../assets/images/EditarCampos.png)
 
 **Elementos:**
 - 5 campos de formulario etiquetados.
@@ -133,7 +133,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.8 Eliminar Contacto
 
-![Eliminar](../docs/assets/images/Eliminar.png)
+![Eliminar](../assets/images/Eliminar.png)
 
 **Elementos:**
 - Selector desplegable.
@@ -145,7 +145,7 @@ Los wireframes de baja fidelidad definen la disposición de los elementos en cad
 
 ### 3.9 Acerca De
 
-![Acerca De](../docs/assets/images/AcercaDe.png)
+![Acerca De](../assets/images/AcercaDe.png)
 
 **Elementos:**
 - Información de la aplicacion y los desarrolladores.

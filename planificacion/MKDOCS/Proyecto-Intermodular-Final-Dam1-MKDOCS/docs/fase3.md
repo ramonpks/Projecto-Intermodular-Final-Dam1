@@ -25,7 +25,7 @@ En esta fase se organiza el trabajo temporal del proyecto mediante un **diagrama
 
 El diagrama de Gantt representa la planificación temporal completa del proyecto, ajustada a las fechas reales de entrega del aula.
 
-![Diagrama de Gantt](../docs/assets/images/diagramaGrant.png)
+![Diagrama de Gantt](../assets/images/diagramaGrant.png)
 
 ### Tabla de Planificación
 
@@ -64,7 +64,7 @@ El diagrama de Gantt representa la planificación temporal completa del proyecto
 
 Se utiliza Trello como herramienta de gestión visual del trabajo. El tablero sigue una estructura Kanban con cinco listas principales.
 
-![Tablero Trello](../docs/assets/images/tableroTrello.png)
+![Tablero Trello](../assets/images/tableroTrello.png)
 
 ### Estructura del Tablero
 
