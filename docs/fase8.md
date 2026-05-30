@@ -200,4 +200,4 @@ Cada tarea en "Hecho" cumple tres condiciones:
 
 
 !!! tip "Navegación"
-    ← [Fase 7: Documentación del Proyecto](fase7.md) | [Inicio](index.md) →
+    ← [Fase 7: Documentación del Proyecto](fase7.md) | ← [Inicio](index.md) → | [Fase Final: Desarroyo Aplicacion y entrega](faseFinal.md) → 

@@ -95,6 +95,13 @@ Este proyecto se desarrolla en equipo de dos alumnos del curso de DAM.
 
   Presentación final del proyecto, aprendizajes y conclusiones.
 
+  - **Fase Final: Entrega**  
+  [Ver Fase Final](faseFinal.md)
+
+  ---
+
+  Entrega Proyecto y documentación.
+
 </div>
 
 ---
@@ -124,7 +131,7 @@ Este proyecto se desarrolla en equipo de dos alumnos del curso de DAM.
 │        └── 📁 images/      # Imagenes del proyecto
 ├── 📁 planificacion/        # Gantt, Trello screenshots
 ├── 📁 diseno/               # Wireframes, prototipo
-├── 📁 src/                  # Código fuente PHP
+├── 📁 src/                  # Código fuente
 ├── mkdocs.yml               # Configuración MkDocs
 ├── README.md                # Información del repositorio
 └── .gitignore
@@ -144,7 +151,8 @@ Actualmente en **Fase 8: Presentación**
 - [x] Fase 5: Diseño Web
 - [x] Fase 6: Prototipo Visual
 - [x] Fase 7: Documentación Final
-- [x] Fase 8: Presentación
+- [x] Fase 8: Presentació
+- [x] Fase Final: Entrega
 
 ---
 
@@ -156,6 +164,8 @@ Actualmente en **Fase 8: Presentación**
 | **Microsoft Teams** | [Canal del equipo](https://teams.live.com/l/community/FEAZwus4vZ_3LGY1AI) | 👥 Grupo |
 | **Trello** | [Tablero del proyecto](https://trello.com) | 👥 Grupo |
 | **MkDocs** | [Documentación](https://www.mkdocs.org) | 🌐 Público |
+| **Aplicación** | [Aplicación Instalable](../src/Apk/AgendameEstaV2.apk) | 🌐 Público |
+| **Aplicación** | [Proyecto MITAPPINVENTOR2](../src/ProyectoAppInventor2/AgendameEstaV2.aia) | 🌐 Público |
 
 ---
 
