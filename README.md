@@ -40,12 +40,12 @@ La aplicación unifica la información de contactos que suele estar fragmentada 
 
 ## ✨ 5. Características principales
 
-- 📇 **Gestión CRUD completa:** añadir, listar, editar y eliminar contactos.
-- 🔍 **Búsqueda dinámica:** filtrado avanzado por múltiples campos.
-- 📞 **Integración nativa:** llamadas telefónicas y envío de correos desde la ficha del contacto.
-- 💾 **Funcionamiento offline:** almacenamiento local instantáneo sin necesidad de red.
-- 📤 **Compartir contactos:** opción para compartir fichas de contactos.
-- 📱 **UI responsive:** diseñada para usarse cómodamente con una sola mano en terminales Android.
+- **Gestión CRUD completa:** añadir, listar, editar y eliminar contactos.
+- **Búsqueda dinámica:** filtrado avanzado por múltiples campos.
+- **Integración nativa:** llamadas telefónicas y envío de correos desde la ficha del contacto.
+- **Funcionamiento offline:** almacenamiento local instantáneo sin necesidad de red.
+- **Compartir contactos:** opción para compartir fichas de contactos.
+- **UI responsive:** diseñada para usarse cómodamente con una sola mano en terminales Android.
 
 ---
 
@@ -91,7 +91,7 @@ La app cuenta con una arquitectura lineal de **9 pantallas** distribuidas en ár
 
 ## 📂 9. Estructura del repositorio
 
-```plaintext
+```
 Projecto-Intermodular-Final-Dam1/
 ├── mkdocs.yml                 # Configuración de la documentación MkDocs
 ├── docs/                      # Portal web formativo
