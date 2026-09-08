@@ -1,5 +1,8 @@
 # 📱 Agéndame Esta
 ### Aplicación Móvil de Gestión de Contactos
+⚠️ Aviso: Proyecto educativo desarrollado por un estudiante de DAM, sin garantías de ningún tipo. Lee el [aviso completo](#-aviso-importante-disclaimer) al final de este documento.
+
+[⬇️ Descargar última versión](https://github.com/ramonpks/AgendameEsta-Android/releases/download/V2.0/AgendameEstaV2.apk)
 
 **Proyecto Intermodular — Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 **IES L'Estació — Ontinyent (Valencia) | Curso 2025/2026**
