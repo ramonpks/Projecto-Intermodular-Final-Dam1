@@ -145,3 +145,42 @@ El equipo de desarrollo desea expresar su gratitud a:
 - IES L'Estació de Ontinyent por proveer las instalaciones y el entorno de aprendizaje.
 - Tamara Climent Fuentes, profesora de Intermodular, por su guía, directrices y seguimiento constante.
 - Compañeros de la clase de DAM por actuar como entorno de pruebas y aportar feedback técnico.
+
+
+## 📜 Licencia y créditos
+
+© 2026 Anna Pérez Company y Ramón Vicente Picazo Cayuela. Todos los derechos reservados.
+
+Proyecto educativo desarrollado por Anna Pérez Company y Ramón Vicente Picazo Cayuela para la asignatura de Programación (DAM1) en el I.E.S L'Estació (Ontinyent).
+
+Licencia de uso restringido:
+
+- ✅ Consultar, ver y estudiar el código fuente con fines educativos.
+- ✅ Ejecutar este software con fines educativos o personales.
+- ❌ Prohibido sin autorización expresa de los autores: modificar, alterar, adaptar, distribuir, redistribuir, copiar, vender, sublicenciar o crear obras derivadas de este código o de cualquier parte del mismo.
+- ❌ Prohibido: eliminar o alterar los créditos de los autores o cualquier aviso de copyright.
+
+Para solicitar permiso de modificación, distribución o cualquier otro uso no contemplado, contacta con los autores: [annaperezestudis@gmail.com](mailto:annaperezestudis@gmail.com) y [ramonpks@gmail.com](mailto:ramonpks@gmail.com)
+
+> Cualquier uso no autorizado de este software será considerado una violación de los derechos de autor.
+
+
+<a id="-aviso-importante-disclaimer"></a>
+
+## ⚠️ Aviso importante (Disclaimer)
+
+**Calculadora Avanzada** es un proyecto educativo desarrollado por estudiantes de Desarrollo de Aplicaciones Multiplataforma (DAM). No ha sido diseñado ni probado para su uso en un entorno de producción real.
+
+El software se proporciona **"TAL CUAL" (AS IS)**, sin garantías de ningún tipo. Los autores no se hacen responsables de ningún daño o perjuicio derivado del uso de esta aplicación, incluyendo, a título enunciativo:
+
+- ❌ Pérdida de datos o información (clientes, facturas, stock, etc.).
+- ❌ Corrupción de la base de datos (SQLite o MySQL).
+- ❌ Errores en cálculos de impuestos, totales o balances.
+- ❌ Fallos en la generación de documentos PDF o en el envío de correos.
+- ❌ Problemas derivados de las copias de seguridad locales o FTP.
+
+> Si decides utilizar esta aplicación con datos reales, hazlo bajo tu propia responsabilidad y realiza siempre copias de seguridad periódicas de tus datos.
+
+> 💡 Al tratarse de un proyecto académico con fines de aprendizaje, el código fuente completo está disponible para su consulta, revisión y estudio por cualquier persona interesada.
+
+**En resumen:** esto es un proyecto de estudiantes. Úsalo para aprender, experimentar y probar. Si vas a trabajar con datos reales, revisa, valida y prueba todo por ti mismo antes de confiar en la aplicación.
